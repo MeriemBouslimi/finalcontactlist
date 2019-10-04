@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 5px 0;
+}
+.App {
+  text-align: center;
+}
+.btn {
+  padding: 5px;
+  margin: 0 5px;
+}
+.add-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 650px;
+}
+.txt-input {
+  text-align: center;
+}
+.btn-add {
+  padding: 5px;
+}
+.cards {
+  text-align: center;
+  border: solid gray 5px;
+  padding: 10px;
+  margin: 5px -45px;
+}
